@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Novo Naselje</title>
+</head>
+<body>
+
+<h1>Novo Naselje</h1>
+
+<a href="https://sh.wikipedia.org/wiki/Novo_naselje_(Novi_Sad)" target="_blank">Wiki stranica</a>
+
+<br>
+
+<img src="https://live.staticflickr.com/2949/15419385985_b585c9c5a2_b.jpg">
+
+<br>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d5617.483609552618!2d19.808045110562794!3d45.253013638807325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2srs!4v1728932951529!5m2!1sen!2srs" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</body>
+</html>
